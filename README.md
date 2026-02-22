@@ -4,5 +4,5 @@
 </br>
 🌱 I’m currently learning C++ for quantitative finance
 </br>
-😉 Here is my killer [resume](https://github.com/dhruvi29/dhruvi29/blob/main/Dhruvi_Doshi_Resume.pdf)  
+😉 Here is my killer [resume](https://dhruvi29.github.io/dhruvi29/)  
 🥰 To know more about me - [https://dhruvi29.github.io/](https://dhruvi29.github.io/)
